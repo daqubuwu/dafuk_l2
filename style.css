@@ -1,167 +1,160 @@
 body {
-	font-family: Arial, sans-serif;
-	font-size: 16px;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
 }
 
 .container {
-    max-width: 1000px;
-    margin: 0 auto;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 .container_one {
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-    padding-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 50px;
 }
 
 .cont_one_block_one {
-	width: 450px;
-	height: 50px;
-	
-	background-color: #3b5998	;
+  width: 450px;
+  height: 50px;
+
+  background-color: #3b5998;
 }
 
-
 .cont_one_block_two {
-	width: 150px;
-	height: 50px;
-	
-	background-color: #3b5998;
+  width: 150px;
+  height: 50px;
+
+  background-color: #3b5998;
 }
 
 .info_head {
-    display: flex;
-    align-content: center;
-    width:1000px;
-    height: 60px;
-    margin-top: 50px;
-    background-color: #3b5998;
+  display: flex;
+  align-content: center;
+  width: 1000px;
+  height: 60px;
+  margin-top: 50px;
+  background-color: #3b5998;
 }
-
 
 .info {
-    display: flex;
+  display: flex;
 }
 .square_section {
-    align-items: center;
-    justify-content: center;
-    padding: 0 0 0 50px;
-    text-align: left;
+  align-items: center;
+  justify-content: center;
+  padding: 0 0 0 50px;
+  text-align: left;
 }
 
 .square {
-    width: 170px;
-    height: 170px;
-    background-color: #3b5998;
-    margin: 50px;
+  width: 170px;
+  height: 170px;
+  background-color: #3b5998;
+  margin: 50px;
 }
 
 .square_title {
-    text-align: center;
+  text-align: center;
 }
 
-
 .container_two {
-    max-width: 1000px;
-    margin: 0 auto;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 .top {
-    display: flex;
-	justify-content: space-between;
-	align-items: center;
-    padding-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 50px;
 }
 
 .bottom {
-    display: flex;
-	justify-content: space-between;
-	align-items: center;
-    padding-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 50px;
 }
-
 
 .cont_two_block_one {
-	width: 250px;
-	height: 35px;
-    margin-left: 20px;
-	
-	background-color: #3b5998	;
+  width: 250px;
+  height: 35px;
+  margin-left: 20px;
+
+  background-color: #3b5998;
 }
 
-
 .cont_two_block_two {
-	width: 300px;
-	height: 40px;
-    margin-right: 100px;
-	
-	background-color: #3b5998;
+  width: 300px;
+  height: 40px;
+  margin-right: 100px;
+
+  background-color: #3b5998;
 }
 
 .cont_two_block_three {
-	width: 400px;
-	height: 80px;
-    margin-left: 20px;
-	
-	background-color: #3b5998	;
+  width: 400px;
+  height: 80px;
+  margin-left: 20px;
+
+  background-color: #3b5998;
 }
 
-
 .cont_two_block_four {
-	width: 350px;
-	height: 100px;
-    margin-right: 50px;
-	
-	background-color: #3b5998;
+  width: 350px;
+  height: 100px;
+  margin-right: 50px;
+
+  background-color: #3b5998;
 }
 
 .square_two {
-    width: 150px;
-    height: 150px;
-    background-color: #3b5998;
-    margin: 20px 20px 0 0;
+  width: 150px;
+  height: 150px;
+  background-color: #3b5998;
+  margin: 20px 20px 0 0;
 }
 
 .container_three {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
 }
 
 .text_container_three {
-    text-align: left;
-    max-width: 350px;
+  text-align: left;
+  max-width: 350px;
 }
 
-.block_container_three{
-    display: flex;
-    margin: 50px 0 0 0;
+.block_container_three {
+  display: flex;
+  margin: 50px 0 0 0;
 }
-
 
 .container_four {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
 }
 
 .text_container_four {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 400px;
 }
 
-.block_container_four{
-    display: flex;
-    margin: 50px 0 0 0;
+.block_container_four {
+  display: flex;
+  margin: 50px 0 0 0;
 }
 
-.footer{
-    max-width: 1000px;
-    margin: 0 auto;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+.footer {
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
